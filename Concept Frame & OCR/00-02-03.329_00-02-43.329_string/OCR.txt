@@ -1,0 +1,5 @@
+# variable = a container for a value. Behaves as the value that it con
+
+name = "Bro"
+print(type(name))
+#print("Hello "+name)

@@ -1,0 +1,1 @@
+You see that? The data type of my variable height is float, short for floating point. A numerical value that includes a decimal point.

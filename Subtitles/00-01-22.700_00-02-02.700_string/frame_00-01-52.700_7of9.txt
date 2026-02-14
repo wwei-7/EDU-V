@@ -1,0 +1,1 @@
+Now we can combine our string variable with another string. So inside our print statement, let's print a string literal, like "Hello " plus name.

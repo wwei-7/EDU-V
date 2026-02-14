@@ -1,0 +1,1 @@
+I'm going to print type(age), adding the age variable to this type function. This will print the data type of my age variable to the console window. I'll turn this line into a comment just so it's out of the way for now.

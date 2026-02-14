@@ -1,0 +1,1 @@
+plus last_name, and let's display full_name. So "Hello " plus full_name. Now these two names are combined to create a brand new variable.

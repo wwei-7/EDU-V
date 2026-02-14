@@ -1,0 +1,1 @@
+That indicates that this is a float. Short for floating point number. So let's print our height to the console window, print(height). This will print whatever my height is. Now let's check the type of our height using the type function.

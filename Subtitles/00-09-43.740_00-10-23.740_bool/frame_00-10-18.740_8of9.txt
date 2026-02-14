@@ -1,0 +1,1 @@
+So let's print type(human). This will print to the console window. bool, which is short for boolean. Make sure you don't put this inside quotes.

@@ -1,0 +1,1 @@
+This will print the data type of this variable to the console window. You can see it says str, which is short for string. A string is a sequence of characters. A name is a perfect example of a string,
