@@ -1,6 +1,6 @@
 # Mini-Sample of EDU-V Directory Structure
 
-This is a sample of the EDU-V dataset, which will be released publicly later.
+**This is a sample of the EDU-V dataset, which will be released publicly later.**
 
 ## 1. original lecture video
 
