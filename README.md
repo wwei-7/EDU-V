@@ -4,7 +4,7 @@
 
 The **original lecture video** about **python programming**, which serves as the source for all annotations.
 
-See in our appendix.zip in supplement material.
+https://www.bilibili.com/video/BV1pJ4m157qQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d51cdb16be094ccba8d9f54efa88fa0b
 
 ## 2. knowledge concept annotation.txt
 
