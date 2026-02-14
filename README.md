@@ -1,6 +1,8 @@
-# Mini-Sample Directory Structure
+# Mini-Sample of EDU-V Directory Structure
 
-## 1. mini-sample.mp4
+This is a sample of the EDU-V dataset, which will be released publicly later.
+
+## 1. original lecture video
 
 The **original lecture video** about **python programming**, which serves as the source for all annotations.
 
