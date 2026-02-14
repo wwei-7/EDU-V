@@ -4,6 +4,8 @@
 
 The **original lecture video** about **python programming**, which serves as the source for all annotations.
 
+See in our appendix.zip in supplement material.
+
 ## 2. knowledge concept annotation.txt
 
 The annotation file contains **all concept annotation segments** of the original lecture video in the format:  **[start-time] [end-time] [knowledge concept]**.
